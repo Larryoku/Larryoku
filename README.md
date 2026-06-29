@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Larryoku
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on coding.
+- 👋 Hi, I’m Silas Nyarko
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Cloud/DevOps.
+- 💞️ I’m looking to collaborate on Cloud/Devops projects.
 - 📫 How to reach me silaslaray@gmail.com
 
 <!---

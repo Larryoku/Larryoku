@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Silas Nyarko
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Cloud/DevOps.
+- 👀 I’m an aspiring DevOps Engineer
+-  Cohort 3 DMIntern
+- 🌱 I’m currently learning Cloud Native Tools, CI/CD, and Automation
 - 💞️ I’m looking to collaborate on Cloud/Devops projects.
-- 📫 How to reach me silaslaray@gmail.com
+- 📫 How to reach me: silaslaray@gmail.com
 
 <!---
 Larryoku/Larryoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

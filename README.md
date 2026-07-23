@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Cloud Native Tools, CI/CD, and Automation
 - 💞️ I’m looking to collaborate on Cloud/Devops projects.
 - 📫 Reach me on LinkedIn:www.linkedin.com/in/silas-nyarko
+-    Location: Ghana
 
 
 <!---
